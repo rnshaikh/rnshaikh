@@ -10,7 +10,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+Solution+Architect;Building+Multi-Agent+RAG+Systems;Expert+in+LangGraph+%26+LangChain;Full+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+Solution+Architect;Orchestrating+OpenAI%2C+Claude+%26+Grok;Expert+in+LangGraph+%26+LangSmith;Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </div>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" /></p>
@@ -22,7 +22,7 @@
 I am a **Solution Architect**, **AI Engineer**, and Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I’m working as a Senior Software Engineer/Solution Architect contributing to backend and **Generative AI** systems.
-- 🤖 **Current Focus:** Building **Multi-Agent RAG** systems, orchestrating LLM workflows with **LangGraph & LangChain**, and leveraging **HuggingFace** models.
+- 🤖 **Current Focus:** Building **Multi-Agent RAG** systems using **LangGraph**, monitoring traces with **LangSmith**, and orchestrating models like **Claude**, **Grok**, and **GPT-4**.
 - 🌱 I’m currently working on GraphQL Projects and **AI Agentic Workflows**.
 - ⚡ In my free time I solve problems on GeeksforGeeks, LeetCode, and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-rizwan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rizwan-shaikh-a38a2b120/)
@@ -31,13 +31,17 @@ I am a **Solution Architect**, **AI Engineer**, and Full Stack Developer <img sr
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<h4 align="left">🤖 Artificial Intelligence & Machine Learning:</h4>
+<h4 align="left">🤖 Generative AI & LLM Orchestration:</h4>
 <div align="left">
-  <img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="40" alt="LangChain"/>&nbsp;
-  <img src="https://img.shields.io/badge/🦜🕸️_LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="40" alt="LangGraph"/>&nbsp;
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="40" alt="HuggingFace"/>&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" alt="Python"/>&nbsp;
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="OpenAI"/>&nbsp;
+  <img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="30" alt="LangChain"/>&nbsp;
+  <img src="https://img.shields.io/badge/🦜🕸️_LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="30" alt="LangGraph"/>&nbsp;
+  <img src="https://img.shields.io/badge/🦜🛠️_LangSmith-Observability-339933?style=for-the-badge&logo=langchain&logoColor=white" height="30" alt="LangSmith"/>&nbsp;
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="30" alt="HuggingFace"/>&nbsp;
+  <br><br>
+  <img src="https://img.shields.io/badge/OpenAI-GPT4-412991?style=for-the-badge&logo=openai&logoColor=white" height="30" alt="OpenAI"/>&nbsp;
+  <img src="https://img.shields.io/badge/Anthropic-Claude_3.5-D19C69?style=for-the-badge&logo=anthropic&logoColor=white" height="30" alt="Claude"/>&nbsp;
+  <img src="https://img.shields.io/badge/xAI-Grok-000000?style=for-the-badge&logo=x&logoColor=white" height="30" alt="Grok"/>&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" alt="Python"/>&nbsp;
 </div>
 <br>
 
