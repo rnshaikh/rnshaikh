@@ -23,7 +23,7 @@ I am a **Solution Architect**, **AI Engineer**, and Full Stack Developer <img sr
 
 - 🔭 I’m working as a Senior Software Engineer/Solution Architect contributing to backend and **Generative AI** systems.
 - 🤖 **Current Focus:** Building **Multi-Agent RAG** systems using **LangGraph**, monitoring traces with **LangSmith**, and orchestrating models like **Claude**, **Grok**, and **GPT-4**.
-- 🌱 I’m currently working on GraphQL Projects and **AI Agentic Workflows**.
+- 🌱 I’m currently working on **AI Agentic Workflows**.
 - ⚡ In my free time I solve problems on GeeksforGeeks, LeetCode, and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-rizwan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rizwan-shaikh-a38a2b120/)
 
