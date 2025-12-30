@@ -10,7 +10,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%26+Solution+Architect;Cloud+Architect+%26+AI+Engineer;Building+Autonomous+Agentic+Apps;Orchestrating+Multi-Agent+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+Solution+Architect;Cloud+Architect+%26+AI+Engineer;Building+Autonomous+Agentic+Apps;Orchestrating+Multi-Agent+Systems" alt="Typing SVG" />
   </a>
 </div>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" /></p>
